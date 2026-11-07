@@ -4,6 +4,10 @@
 
 Getestete Zielplattform: **Debian 13 (Trixie) / Raspberry Pi OS**, insbesondere Raspberry Pi mit GTK 4 und VTE 3.91. Andere GTK-4-Linux-Desktops können ebenfalls funktionieren.
 
+![LunaTerminal](lunaterminal.png)
+
+[Github Seite](https://github.com/Angonikro/LunaTerminal/)
+
 ## Funktionen
 
 - Mehrere Terminal-Tabs und mehrere Fenster
